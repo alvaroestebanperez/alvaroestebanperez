@@ -1,4 +1,4 @@
-# Álvaro Esteban Pérez
+#  🧬 Álvaro Esteban Pérez 🧬
 
 PhD researcher working at the intersection of liquid biopsy, ovarian cancer, molecular diagnostics, and computational biology.
 
