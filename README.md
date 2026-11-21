@@ -9,7 +9,6 @@ My current work focuses on cfDNA/ctDNA analysis in high-grade serous ovarian can
 - Liquid biopsy in ovarian cancer
 - cfDNA and ctDNA analysis
 - Nanopore methylation profiling
-- qPCR/qMSP assay analysis
 - Bioinformatics workflows in Bash, Python, and R
 - Machine learning for biomedical data
 - Translational biomarker development
