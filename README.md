@@ -27,5 +27,4 @@ My current work focuses on cfDNA/ctDNA analysis in high-grade serous ovarian can
 
 - Nanopore cfDNA methylation pilot workflows
 - Liquid biopsy command-line templates
-- qPCR/qMSP analysis templates
 - Reproducible notebooks for ovarian cancer liquid biopsy
