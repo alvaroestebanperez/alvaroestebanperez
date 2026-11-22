@@ -8,19 +8,6 @@ My current work focuses on cfDNA/ctDNA analysis in high-grade serous ovarian can
 
 [Website & research notes](https://alvaroesteban.dev/)
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="57%" align="left">  
-  <img align="center" src="./profile/stats.svg" width="100%" height="auto" />
-</td>
-<td width="43%" align="left">
-  <img align="center" src="./profile/top-langs.svg" width="100%" height="auto" />
-</td>
-</tr>
-</table>
-</p>
-
 ## Selected projects
 
 - **[Molecular Motion](https://github.com/alvaroestebanperez/molecular-motion)**  
