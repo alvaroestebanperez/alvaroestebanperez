@@ -6,14 +6,21 @@ PhD researcher working at the intersection of liquid biopsy, ovarian cancer, mol
 
 My current work focuses on cfDNA/ctDNA analysis in high-grade serous ovarian cancer, integrating genomic, epigenomic, and fragmentomic signals for translational biomarker development.
 
+[Website & research notes](https://alvaroesteban.dev/)
+
+## Selected projects
+
+- **[Molecular Motion](https://github.com/alvaroestebanperez/molecular-motion)**  
+  An open-source library for interactive, animated molecular biology figures. [Explore the demo](https://molecular-motion.alvaroesteban.dev/).
+
+- **[PCA from first principles](https://github.com/alvaroestebanperez/pca-rna-seq-from-scratch)**  
+  PCA implemented with NumPy and validated against scikit-learn, applied to matched ovarian cancer RNA-seq data.
+
 ## Current interests
 
-- Liquid biopsy in ovarian cancer
-- cfDNA and ctDNA analysis
-- Nanopore methylation profiling
-- Bioinformatics workflows in Bash, Python, and R
-- Machine learning for biomedical data
-- Translational biomarker development
+- Native cfDNA methylation profiling with nanopore sequencing
+- Reproducible bioinformatics and machine learning for biomedical data
+- Interactive scientific visualization
 
 ## Technical toolkit
 
