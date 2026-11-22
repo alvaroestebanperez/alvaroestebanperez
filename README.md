@@ -1,4 +1,6 @@
-# 🧬 Álvaro Esteban Pérez 🧬
+<p align="center">
+  <img src="assets/banner.png" alt="Álvaro Esteban Pérez — PhD researcher. Liquid biopsy, cancer genomics and computational biology." width="100%">
+</p>
 
 PhD researcher working at the intersection of liquid biopsy, ovarian cancer, molecular diagnostics, and computational biology.
 
